@@ -3,5 +3,6 @@ RENCANA KONTEN WIL
 - javaScript
   *es6
   *framework js
+- struktur data dasar
 - interview
 - vlogs
