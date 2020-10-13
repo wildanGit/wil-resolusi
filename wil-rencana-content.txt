@@ -1,5 +1,7 @@
 RENCANA KONTEN WIL
 
 - javaScript
+  *es6
+  *framework js
 - interview
 - vlogs
