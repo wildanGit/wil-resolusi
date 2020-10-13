@@ -1,4 +1,4 @@
 wil RESOLUSI
 - saya ingin konsisten belajar vue js
-- ingin terus berusaha membantu orang tua
 - saya ingin bisa membuat aplikasi CRUD sederhana menggunaan vue js
+- ingin bisa menghasilkan uang dari kerja keras sendiri
