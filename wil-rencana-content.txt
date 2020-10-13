@@ -3,6 +3,9 @@ RENCANA KONTEN WIL
 - javaScript
   *es6
   *framework js
-- struktur data dasar
+    ^ Angular
+    ^ React
+- PHP framework
+    ^ Laravel
 - interview
 - vlogs
